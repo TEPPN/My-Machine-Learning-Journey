@@ -24,4 +24,25 @@ That mean, instead of writing code for every single task, we make machine to see
 5. Gen AI
    Generative AI is the branch of AI that focus on creating new content and original. Generative AI have the ability to create text, image, video, music, and another form of content that never been create before. It's different from traditional AI that operate based on procedure and data.
 
+Before the concept of machine learning, human code a program explicitly, rule and paradigm of the early era of programming was represent in this diagram:
 
+![[traditional programming.png]]
+
+Traditional programming often have many flaw/limit. This system often rigid because depends on "if" and "else" rules to process and respond input.
+
+Here are the example of traditional programming:
+
+`if speed < 4:`
+     `activity = walk`
+`elif speed < 12:`
+     `activity = run`
+`else`
+     `activity = stay`
+
+The more complex activity we want to detect like playing basketball, this activity involve many movement like walk, run, jump, shoot, stop that are hard to explain in simple rules. This is where machine learning come as solution, machine learning given the ability o learn from data without writing rules manually.
+
+Machine learning analyze data and find patterns that help detect what kind of activity. here are the diagram of machine learning:
+
+![[MLdiagram.png]]
+
+In machine learning, we dealt with large number of data and label. Data are the information we have and use, and rules are information we want to predict or classified. with understanding the relation between data and label, we can make in use the machine learning to identify pattern in data.
