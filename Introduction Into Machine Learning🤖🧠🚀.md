@@ -46,3 +46,5 @@ Machine learning analyze data and find patterns that help detect what kind of ac
 ![[MLdiagram.png]]
 
 In machine learning, we dealt with large number of data and label. Data are the information we have and use, and rules are information we want to predict or classified. with understanding the relation between data and label, we can make in use the machine learning to identify pattern in data.
+
+Next [[Main Component of Machine Learning⚙️]]

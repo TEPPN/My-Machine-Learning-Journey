@@ -1,4 +1,5 @@
-#MachineLearning
+#MachineLearning 
+previous: [[Introduction Into Machine Learning🤖🧠🚀]]
 In machine learning, there are some main components that are important in the process of build the effective model. Each component play crucial role to make sure that the model not only accurate, but also can be relied in real time scenario.
 
 Here are the explanation of each component:
@@ -30,3 +31,5 @@ Here are Feature Engineering diagram:
 	Hyperparameter tuning are the process to optimize parameter outside model that could influence model performance. Hyperparameter are set manually or using  automatic searching technique.
 ## 8. Deployment
 	Deployment are the last step when the trained and evaluate model got implemented into production environment for in real application. it involve model integration into system or application that use model to make decision or prediction.
+
+Next 

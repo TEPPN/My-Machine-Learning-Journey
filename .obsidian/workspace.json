@@ -25,10 +25,14 @@
             "id": "ee8003f7dd2d47be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Main Component of Machine Learning⚙️.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main Component of Machine Learning⚙️"
             }
           }
         ],
@@ -63,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MachineLearning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main Component of Machine Learning⚙️.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Main Component of Machine Learning⚙️"
             }
           },
           {
@@ -122,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main Component of Machine Learning⚙️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Main Component of Machine Learning⚙️"
             }
           },
           {
@@ -147,9 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Main Component of Machine Learning⚙️.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Main Component of Machine Learning⚙️"
             }
           }
         ]
@@ -170,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee8003f7dd2d47be",
+  "active": "16fe81a25c2b622f",
   "lastOpenFiles": [
-    "Introduction Into Machine Learning🤖🧠🚀.md",
     "Main Component of Machine Learning⚙️.md",
+    "Introduction Into Machine Learning🤖🧠🚀.md",
     "Assets/machine_learning_algorithm.png",
     "Assets/high-lelvel-machine-learning-process.png",
     "Assets/Feature-Engineering.png",
