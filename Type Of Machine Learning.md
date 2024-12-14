@@ -21,3 +21,4 @@ The purpose of unsupervised learning are to identified pattern, structure, or re
 	In RL, there are four main parts that create the core of how agent learn and interact with environment. First, agent are the entity that learn and act. Second, environment are the world where agent operate. Third, action are the option available for agent. And last, reward or reinforcement are the feedback for agent based on it's own action.
 
 ![[Reinforcement-Learning-Model.png]]
+Next [[Stating Problem with Machine Learning]]
