@@ -1,5 +1,5 @@
 #MachineLearning 
-previous: [[Introduction Into Machine Learning🤖🧠]]
+previous: [[Introduction Into Machine Learning]]
 In machine learning, there are some main components that are important in the process of build the effective model. Each component play crucial role to make sure that the model not only accurate, but also can be relied in real time scenario.
 
 Here are the explanation of each component:

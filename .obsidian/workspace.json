@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Component of Machine Learning⚙️.md",
+                "file": "Main Component of Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Component of Machine Learning⚙️"
+              "title": "Main Component of Machine Learning"
+            }
+          },
+          {
+            "id": "0c24956dc563f845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Type Of Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type Of Machine Learning"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,10 +192,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee8003f7dd2d47be",
+  "active": "0c24956dc563f845",
   "lastOpenFiles": [
-    "Introduction Into Machine Learning🤖🧠.md",
-    "Main Component of Machine Learning⚙️.md",
+    "Assets/unsupervised_diagram2.png",
+    "Assets/unsupervised_diagram.jpeg",
+    "Assets/supervised_diagraam.png",
+    "Type Of Machine Learning.md",
+    "Introduction Into Machine Learning.md",
+    "Main Component of Machine Learning.md",
     "Assets/machine_learning_algorithm.png",
     "Assets/high-lelvel-machine-learning-process.png",
     "Assets/Feature-Engineering.png",
