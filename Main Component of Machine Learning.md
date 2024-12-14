@@ -32,4 +32,4 @@ Here are Feature Engineering diagram:
 ## 8. Deployment
 	Deployment are the last step when the trained and evaluate model got implemented into production environment for in real application. it involve model integration into system or application that use model to make decision or prediction.
 
-Next 
+Next [[Type Of Machine Learning]]

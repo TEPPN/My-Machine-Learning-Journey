@@ -1,3 +1,4 @@
+Previous [[Main Component of Machine Learning]]
 Here are the type of machine learning
 
 ## 1. Supervised Learning
