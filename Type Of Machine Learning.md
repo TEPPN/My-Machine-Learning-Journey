@@ -14,5 +14,9 @@ The purpose of unsupervised learning are to identified pattern, structure, or re
 ![[unsupervised_diagram2.png]]
 
 ## 3. Semi-Supervised Learning (SSL)
-	Semi-supervised learning(SSL) are the approach in machine learning that erge element from supervised learning and supervised learning. in this methos, model train using data that consist of some labeled data and some unlabeled data. The main purpose of SSL are to utilize unlabeled data to increase model accuracy and minimize dependency from labeled data that might be limited.
-## 4. Reinforcement learning
+	Semi-supervised learning(SSL) are the approach in machine learning that erge element from supervised learning and supervised learning. in this methos, model train using data that consist of some labeled data and some unlabeled data. The main purpose of SSL are to utilize unlabeled data to increase model accuracy and minimize dependency from labeled data that might be limited. SSL useful when we have few labeled data abd many unlabeled data.
+## 4. Reinforcement learning (RL)
+	Reinforcement learning(RL) are one of many branch of machine learning that focus on how agent learn by action inside environment to maximize the reward that accepted by it's own environment. Inside RL, agent learn by try and error. agent do some action, see the result, then renew it's knowledge about the action better in some circumtance.
+	In RL, there are four main parts that create the core of how agent learn and interact with environment. First, agent are the entity that learn and act. Second, environment are the world where agent operate. Third, action are the option available for agent. And last, reward or reinforcement are the feedback for agent based on it's own action.
+
+![[Reinforcement-Learning-Model.png]]
