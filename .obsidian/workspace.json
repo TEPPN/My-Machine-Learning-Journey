@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Component of Machine Learning⚙️.md",
+                "file": "Introduction Into Machine Learning🤖🧠.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Component of Machine Learning⚙️"
+              "title": "Introduction Into Machine Learning🤖🧠"
             }
           }
         ],
@@ -178,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16fe81a25c2b622f",
+  "active": "ee8003f7dd2d47be",
   "lastOpenFiles": [
     "Main Component of Machine Learning⚙️.md",
-    "Introduction Into Machine Learning🤖🧠🚀.md",
+    "Introduction Into Machine Learning🤖🧠.md",
     "Assets/machine_learning_algorithm.png",
     "Assets/high-lelvel-machine-learning-process.png",
     "Assets/Feature-Engineering.png",
