@@ -14,5 +14,5 @@ The purpose of unsupervised learning are to identified pattern, structure, or re
 ![[unsupervised_diagram2.png]]
 
 ## 3. Semi-Supervised Learning (SSL)
-	d
+	Semi-supervised learning(SSL) are the approach in machine learning that erge element from supervised learning and supervised learning. in this methos, model train using data that consist of some labeled data and some unlabeled data. The main purpose of SSL are to utilize unlabeled data to increase model accuracy and minimize dependency from labeled data that might be limited.
 ## 4. Reinforcement learning
