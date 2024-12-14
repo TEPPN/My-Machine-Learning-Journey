@@ -5,7 +5,8 @@ The term *Machine Learning* get popularize by Arthur Samuel in 1959. He define M
 
 That mean, instead of writing code for every single task, we make machine to see through pattern from data and decide or predict based on its learning. This concept change our way to solve a problem.
 
-Here is the taxonomy of *artificial intelligent*
+[Here is the taxonomy of *artificial intelligent*](obsidian://open?vault=Machine_Learning&file=Assets%2Fai_taxonomy.jpeg)
+
 ![[ai_taxonomy.jpeg]]
 
 1. Artificial Intelligent (AI)
