@@ -1,4 +1,4 @@
-
+#MachineLearning 
 _“A field of study that gives computers the ability to learn without being explicitly programmed.”_ -Arthur Samuel, 1959-
 
 The term *Machine Learning* get popularize by Arthur Samuel in 1959. He define Machine learning as a branch of knowledge about giving computer the ability to think, study, and develop it self. 
