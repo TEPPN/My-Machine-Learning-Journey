@@ -23,7 +23,9 @@ In Business, SMART are the effective way to make sure that the objective are cle
 Observe the available data. The data must be enough to help achieve the objective.
 
 1. Inventory Data
+   Identifying all the data resource available, either internal or external are the first crucial step in the process of data analyse. Make sure to cover all the data received from company's internal system, like operational databases. By collecting all the relevant data, we make sure that none important information missed that could affect the data accuracy. This process also help in identifying the potential of data's gap and make a strategy to overcome it.
 2. Evaluate Data's Quality
+   Checking the data's completeness, consistency, accuracy, and relevancy. This step  
 3. Data Exploration
 4. Feature Choice
 5. Cleaning and Transformation Data
