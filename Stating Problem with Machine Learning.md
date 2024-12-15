@@ -44,6 +44,12 @@ Finding the type of machine learning problem are important because it can affect
    - Support Vector Machines (SVM)
    - Logistic Regression
    
+    Evaluation Criteria 
+   - Accuracy
+   - Precision and Recall
+   - F1-Score
+   - ROC-AUC Score
+   
 2. Regression
    Regression use to predict continue numeric value. If we want to determine someone's height in centimeter, we can use regression where the model will help us to understand the relation between variable and make body height prediction based on the available data. Here are the algorithm we can use:
    - Linear Regression
@@ -52,5 +58,23 @@ Finding the type of machine learning problem are important because it can affect
    - Random Forest Regression
    - Gradient Boosting Regressor
    
-3. Clustering
+   Evaluation Criteria
+   - Mean Squared Error (MSE)
+   - Mean Absolute Error (MAE)
+   - R-squared ($R^2$)Score
    
+3. Clustering
+   In Clustering, data grouped by characteristic similarity without label that have been determined. Each cluster represent group with similar height gap. Here are the algorithm we can use:
+   - K-Mean Clustering
+   - Hierarchical Clustering
+   - DBSCAN (Density-Based Spatial Clusteing of Application with Noise)
+   - Gaussian Mixture Models
+   
+   Evaluation Criteria
+   - Silhouette Score
+   - Davies-Bouldin Index
+   - Inertia (for K-Means)
+
+This step make sure that we use the correct technique to get the most accurate and reliable.
+
+Next [[Machine Learning Workflow]]
