@@ -22,4 +22,9 @@ In Business, SMART are the effective way to make sure that the objective are cle
 ## Understand The Available Data
 Observe the available data. The data must be enough to help achieve the objective.
 
-1. 
+1. Inventory Data
+2. Evaluate Data's Quality
+3. Data Exploration
+4. Feature Choice
+5. Cleaning and Transformation Data
+f
